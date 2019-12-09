@@ -1,0 +1,21 @@
+{
+  "name": "reactstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello",
+    "created": "mkdir build",
+    "deleted": "rm -r build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/reactStart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/reactStart/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/reactStart#readme"
+}
